@@ -1,4 +1,4 @@
-# fifth_app
+# QuickBite
 
 A new Flutter project.
 
