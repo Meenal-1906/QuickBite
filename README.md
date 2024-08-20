@@ -39,8 +39,8 @@
 </ul>
 <h3 name="screenshots">A Few Screenshots</h3>
 
-<div style="display: flex; justify-content: center;">
-
-</div>
-
-
+![WhatsApp Image 2024-08-20 at 11 53 59 AM](https://github.com/user-attachments/assets/ee966569-ceff-4305-845a-0cff2365de99)
+![WhatsApp Image 2024-08-20 at 11 53 59 AM (4)](https://github.com/user-attachments/assets/abc33dd6-20ce-4cbc-9cdf-6f4c2e016e2f)
+![WhatsApp Image 2024-08-20 at 11 53 59 AM (3)](https://github.com/user-attachments/assets/b56afc6f-86a8-4e75-b059-0d24b7039fbc)
+![WhatsApp Image 2024-08-20 at 11 53 59 AM (2)](https://github.com/user-attachments/assets/16801e91-23f1-422c-bea0-602104d9823e)
+![WhatsApp Image 2024-08-20 at 11 53 59 AM (1)](https://github.com/user-attachments/assets/98108ec9-6bed-4eea-92ae-23ca514ac239)
