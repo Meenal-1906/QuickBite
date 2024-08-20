@@ -34,9 +34,6 @@
         <p>Flutter</p>
     </li>
     <li>
-        <p>FireBase</p>
-    </li>
-    <li>
         <p>Provider State Management</p>
     </li>
 </ul>
