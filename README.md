@@ -41,9 +41,9 @@
 
 <div style="display: flex; justify-content: center;">
 <img src="https://github.com/user-attachments/assets/30430601-8657-4f51-9bec-805ce00ccc09" width="900" height="600" alt="WhatsApp Image">
-<img src="https://github.com/user-attachments/assets/47a53b20-8f2d-404e-88a5-7e2d56eb29e3" width="900" height="600" alt="WhatsApp Image">
+<img src="https://github.com/user-attachments/assets/47a53b20-8f2d-404e-88a5-7e2d56eb29e3" width="900" height="400" alt="WhatsApp Image">
 <img src="https://github.com/user-attachments/assets/2e18e51f-e4f7-43f0-9e18-7efc65fe6121" width="900" height="600" alt="WhatsApp Image">
-<img src="https://github.com/user-attachments/assets/c0c830d3-fa26-4cfc-9779-9f67ef9a5f6c" width="900" height="600" alt="WhatsApp Image">
+<img src="https://github.com/user-attachments/assets/c0c830d3-fa26-4cfc-9779-9f67ef9a5f6c" width="900" height="400" alt="WhatsApp Image">
 </div>
 
 
