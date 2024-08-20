@@ -40,7 +40,7 @@
 <h3 name="screenshots">A Few Screenshots</h3>
 
 <div style="display: flex; justify-content: center;">
-<img src="https://github.com/user-attachments/assets/30430601-8657-4f51-9bec-805ce00ccc09" width="700" height="600" alt="WhatsApp Image">
+<img src="https://github.com/user-attachments/assets/30430601-8657-4f51-9bec-805ce00ccc09" width="900" height="600" alt="WhatsApp Image">
 </div>
 ![WhatsApp Image 2024-08-20 at 10 43 08 AM](https://github.com/user-attachments/assets/30430601-8657-4f51-9bec-805ce00ccc09)
 ![WhatsApp Image 2024-08-20 at 10 43 08 AM (3)](https://github.com/user-attachments/assets/47a53b20-8f2d-404e-88a5-7e2d56eb29e3)
