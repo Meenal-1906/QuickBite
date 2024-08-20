@@ -39,6 +39,7 @@
 </ul>
 <h3 name="screenshots">A Few Screenshots</h3>
 
+<img src="https://github.com/user-attachments/assets/30430601-8657-4f51-9bec-805ce00ccc09" width="300" height="200" alt="WhatsApp Image">
 ![WhatsApp Image 2024-08-20 at 10 43 08 AM](https://github.com/user-attachments/assets/30430601-8657-4f51-9bec-805ce00ccc09)
 ![WhatsApp Image 2024-08-20 at 10 43 08 AM (3)](https://github.com/user-attachments/assets/47a53b20-8f2d-404e-88a5-7e2d56eb29e3)
 ![WhatsApp Image 2024-08-20 at 10 43 08 AM (2)](https://github.com/user-attachments/assets/2e18e51f-e4f7-43f0-9e18-7efc65fe6121)
