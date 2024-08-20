@@ -1,7 +1,7 @@
 # QuickBite
 
-A new Flutter project.
+This Flutter project is a mobile application designed to manage meal categories and recipes.
 
-## Getting Started
+
 
 
