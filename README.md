@@ -1,8 +1,8 @@
 <p align="center">
   </p>
 
-<H1> QuickBite </H1>
-<H3> This Flutter project is a mobile application designed to manage meal categories and recipes.💙💫 </H3>
+<H1> QuickBite 🍔 </H1>
+<H3> This Flutter project is a mobile application designed to manage meal categories and recipes.⭐ </H3>
 
 <details>
 <summary>Table of Contents</summary>
