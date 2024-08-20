@@ -39,7 +39,7 @@
 </ul>
 <h3 name="screenshots">A Few Screenshots</h3>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
 <img src="https://github.com/user-attachments/assets/30430601-8657-4f51-9bec-805ce00ccc09" width="700" height="600" alt="WhatsApp Image">
 </div>
 ![WhatsApp Image 2024-08-20 at 10 43 08 AM](https://github.com/user-attachments/assets/30430601-8657-4f51-9bec-805ce00ccc09)
